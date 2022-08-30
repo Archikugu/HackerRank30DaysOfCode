@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Days0_HelloWorld", "Days0_HelloWorld\Days0_HelloWorld.csproj", "{D600EC7D-EFBE-4B59-9027-A5AAA2C442BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day0_HelloWorld", "Days0_HelloWorld\Day0_HelloWorld.csproj", "{D600EC7D-EFBE-4B59-9027-A5AAA2C442BC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Days1_DataTypes", "Days1_DataTypes\Days1_DataTypes.csproj", "{A3121077-A8F3-470B-BA87-FE5FE5D57AAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1_DataTypes", "Days1_DataTypes\Day1_DataTypes.csproj", "{A3121077-A8F3-470B-BA87-FE5FE5D57AAE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2_Operators", "Day2_Operators\Day2_Operators.csproj", "{FFFF84AB-570D-4FCF-A137-79B3A18497D7}"
 EndProject
@@ -31,13 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day12_Inheritance", "Day12_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day13_AbstractClasses", "Day13_AbstractClasses\Day13_AbstractClasses.csproj", "{E9440223-EA2F-4330-90D4-848AD4074649}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day14_Scope", "Day14_Scope\Day14_Scope.csproj", "{D5927156-EDE5-449F-8B6F-15B653D41C0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day14_Scope", "Day14_Scope\Day14_Scope.csproj", "{D5927156-EDE5-449F-8B6F-15B653D41C0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day15_LinkedList", "Day15_LinkedList\Day15_LinkedList.csproj", "{9D0C0748-C2F2-42FF-B869-B0DCAEE96595}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day15_LinkedList", "Day15_LinkedList\Day15_LinkedList.csproj", "{9D0C0748-C2F2-42FF-B869-B0DCAEE96595}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day16_ExceptionsStringToInteger", "Day16_ExceptionsStringToInteger\Day16_ExceptionsStringToInteger.csproj", "{A53727FC-23EA-4E4B-8453-2C03C9D4E51A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day16_ExceptionsStringToInteger", "Day16_ExceptionsStringToInteger\Day16_ExceptionsStringToInteger.csproj", "{A53727FC-23EA-4E4B-8453-2C03C9D4E51A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day17_MoreExceptions", "Day17_MoreExceptions\Day17_MoreExceptions.csproj", "{1B8035B1-6EE7-4032-AD30-B1ED60456FB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day17_MoreExceptions", "Day17_MoreExceptions\Day17_MoreExceptions.csproj", "{1B8035B1-6EE7-4032-AD30-B1ED60456FB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
