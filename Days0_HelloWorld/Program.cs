@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Days0_HelloWorld
+namespace Day0_HelloWorld
 {
     internal class Program
     {
