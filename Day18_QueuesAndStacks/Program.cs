@@ -13,7 +13,7 @@ namespace Day18_QueuesAndStacks
             s.Push(ch);
         }
 
-        void IenqueueCharacter(char ch)
+        void enqueueCharacter(char ch)
         {
             q.Enqueue(ch);
         }
@@ -21,7 +21,7 @@ namespace Day18_QueuesAndStacks
         {
             return s.Pop();
         }
-        char dequeueCharackter()
+        char dequeueCharacter()
         {
             return q.Dequeue();
         }
