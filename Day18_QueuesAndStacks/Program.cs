@@ -3,6 +3,16 @@ using System.Collections.Generic;
 
 namespace Day18_QueuesAndStacks
 {
+    /*
+    1 . Two instance variables : one for your stack , and one for your queue .
+    2. A void ch ) method that pushes a character onto a stack . pushCharacter ( char
+    3. A void enqueueCharacter ( char ch ) method that enqueues a character in the
+      queue instance variable .
+    4. A char popCharacter ( ) method that pops and returns the character at the top of
+      the stack instance variable .
+    5. A char dequeueCharacter ( ) method that dequeues and returns the first character
+     in the queue instance variable .
+     */
     public class Program
     {
         //Write your code here
