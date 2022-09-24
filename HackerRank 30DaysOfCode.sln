@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day0_HelloWorld", "Days0_HelloWorld\Day0_HelloWorld.csproj", "{D600EC7D-EFBE-4B59-9027-A5AAA2C442BC}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1_DataTypes", "Days1_DataTypes\Day1_DataTypes.csproj", "{A3121077-A8F3-470B-BA87-FE5FE5D57AAE}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2_Operators", "Day2_Operators\Day2_Operators.csproj", "{FFFF84AB-570D-4FCF-A137-79B3A18497D7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3_IntroToConditionalStatements", "Day3_IntroToConditionalStatements\Day3_IntroToConditionalStatements.csproj", "{6E3F8852-1B54-407E-B9F8-E203BD79F921}"
@@ -39,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day16_ExceptionsStringToInt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day17_MoreExceptions", "Day17_MoreExceptions\Day17_MoreExceptions.csproj", "{1B8035B1-6EE7-4032-AD30-B1ED60456FB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day18_QueuesAndStacks", "Day18_QueuesAndStacks\Day18_QueuesAndStacks.csproj", "{FB82863F-2A5D-4B60-AECE-05AED875E816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day18_QueuesAndStacks", "Day18_QueuesAndStacks\Day18_QueuesAndStacks.csproj", "{FB82863F-2A5D-4B60-AECE-05AED875E816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day19_Interfaces", "Day19_Interfaces\Day19_Interfaces.csproj", "{606C27F5-EDDB-431C-9341-159A17EA09EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,14 +45,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D600EC7D-EFBE-4B59-9027-A5AAA2C442BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D600EC7D-EFBE-4B59-9027-A5AAA2C442BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D600EC7D-EFBE-4B59-9027-A5AAA2C442BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D600EC7D-EFBE-4B59-9027-A5AAA2C442BC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A3121077-A8F3-470B-BA87-FE5FE5D57AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3121077-A8F3-470B-BA87-FE5FE5D57AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3121077-A8F3-470B-BA87-FE5FE5D57AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3121077-A8F3-470B-BA87-FE5FE5D57AAE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FFFF84AB-570D-4FCF-A137-79B3A18497D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FFFF84AB-570D-4FCF-A137-79B3A18497D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFFF84AB-570D-4FCF-A137-79B3A18497D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -123,6 +113,10 @@ Global
 		{FB82863F-2A5D-4B60-AECE-05AED875E816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB82863F-2A5D-4B60-AECE-05AED875E816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB82863F-2A5D-4B60-AECE-05AED875E816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606C27F5-EDDB-431C-9341-159A17EA09EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606C27F5-EDDB-431C-9341-159A17EA09EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606C27F5-EDDB-431C-9341-159A17EA09EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606C27F5-EDDB-431C-9341-159A17EA09EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
